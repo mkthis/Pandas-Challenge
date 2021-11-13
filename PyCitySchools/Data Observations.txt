@@ -1,0 +1,14 @@
+Observed Data Trends from PyCitySchools Challenge
+
+1. Charter schools have a significant amount more students who pass both math and reading. Charter schools percentage for passing both subjects 
+sits at approximately 91%. District schools whose students pass both math and reading are at approximately 54%. 
+
+2. Small and medium sized schools significantly outperform large schools in the amount of students passing reading and math. 
+While there is virtually no difference in the passing rate in small and medium schools at approximately 90-91%, 
+large schools have students pass both subjects at an approximate rate of 57%.
+
+Based on these observations, I would recommend that the superintendent and other district leadership implement charter school-style learning at district schools, 
+or form more charter schools within the district. 
+
+Another possibility would be to study feasibility for breaking the larger schools into small or medium sized schools in an effort to concentrate resources and 
+improve the percentage of students who pass math and reading.
